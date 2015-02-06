@@ -486,3 +486,5 @@ mstats(s)
 	    totused, totfree);
 }
 #endif
+
+/* I love you all */
